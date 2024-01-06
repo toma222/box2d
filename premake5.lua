@@ -8,7 +8,7 @@ project "box2d"
 
 	files
 	{
-		"src/**.cpp"
+		"src/**.cpp",
 		"include/**.hpp"
 	}
 
