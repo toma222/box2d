@@ -12,7 +12,7 @@ project "box2d"
 		"include/**.hpp"
 	}
 
-	include
+	includedirs
 	{
 		"include"
 	}
